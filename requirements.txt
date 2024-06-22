@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+chromadb
+accelerate
+peft
+transformers
+bitsandbytes==0.41.3
+sentence-transformers
+rich
