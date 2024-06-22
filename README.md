@@ -26,13 +26,12 @@ Welcome to the **Bangla Retrieval-Augmented Generation (RAG) Pipeline**! This re
 
 ## Installation
 
-1. **Install Python:** Download and install Python from [python.org](https://www.python.org/).
-2. **Clone the Repository:**
+1. **Clone the Repository:**
     ```bash
     git clone https://github.com/Bangla-RAG/PoRAG.git
     cd PoRAG
     ```
-3. **Install Required Libraries:**
+2. **Install Required Libraries:**
     ```bash
     pip install -r requirements.txt
     ```
